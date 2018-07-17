@@ -1,0 +1,46 @@
+{
+	"title": "Windows-知识星球",
+	"author": "MinGRn",
+	"language": "zh-hans",
+	"plugins": [
+      "github",
+	  "github-buttons",
+	  "disqus",
+	  "advanced-emoji",
+	  "tbfed-pagefooter",
+	  "anchor-navigation-ex-toc",
+	  "favicon"
+  ],
+  "pluginsConfig": {
+    "github":{
+      "url": "https://github.com/MinGRn/Knowledge-Star"
+	},
+    "github-buttons": {
+      "repo": "MinGRn/Knowledge-Star",
+      "types": [
+        "Follow",
+        "star",
+        "watch",
+        "fork"
+      ],
+      "size": "small"
+    },
+	"disqus": {
+      "shortName": "mingrn"
+    },
+	"tbfed-pagefooter": {
+      "copyright":"Copyright &copy MinGRn 2018",
+      "modify_label": "最近修订时间：",
+      "modify_format": "YYYY-MM-DD"
+    },
+	"favicon":{
+      "shortcut": "images/favicon.ico",
+      "bookmark": "images/favicon.ico",
+      "appleTouch": "assets/images/apple-touch-icon.png",
+      "appleTouchMore": {
+        "120x120": "assets/images/apple-touch-icon-120x120.png",
+        "180x180": "assets/images/apple-touch-icon-180x180.png"
+      }
+    }
+  }
+}
