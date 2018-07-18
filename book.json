@@ -34,8 +34,8 @@
       "modify_format": "YYYY-MM-DD"
     },
 	"favicon":{
-      "shortcut": "images/favicon.ico",
-      "bookmark": "images/favicon.ico",
+      "shortcut": "favicon/favicon.ico",
+      "bookmark": "favicon/favicon.ico",
       "appleTouch": "assets/images/apple-touch-icon.png",
       "appleTouchMore": {
         "120x120": "assets/images/apple-touch-icon-120x120.png",
